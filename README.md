@@ -27,14 +27,6 @@
 
 ---
 
-<h2>📦 State Management</h2>
-<p>
-  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" width="40" alt="Chakra UI"/>
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/zustand-bear.svg" width="40" alt="Zustand"/>
-</p>
-
----
-
 <h2>🏆 Codewars</h2>
 
 ![Codewars](https://www.codewars.com/users/nsapaev/badges/large)
