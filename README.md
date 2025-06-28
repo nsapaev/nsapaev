@@ -1,7 +1,4 @@
 <h2>📌 Contacts</h2>
-<a href="https://www.linkedin.com/in/nsapaev/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
 <a href="https://t.me/sapaev_n">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
